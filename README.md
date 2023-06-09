@@ -1,4 +1,4 @@
-# 5g-threat-detector
+# 5G-Threat-Detector
 
 
 
