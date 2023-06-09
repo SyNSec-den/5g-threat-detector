@@ -1,5 +1,11 @@
 # 5g-threat-detector
 
+
+
+## Device-centric 5G Threat Detector Demo
+https://github.com/SyNSec-den/5g-threat-detector/assets/56384285/1c8032b2-e1ee-4743-a1ad-dc4007b33623
+
+
 ## Attack Detection Demo
 ### Attach Reject
 https://user-images.githubusercontent.com/56384285/230157683-5e7772ee-8b7e-46b8-8e42-11b738850815.mp4
